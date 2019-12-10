@@ -7,21 +7,20 @@ Reference paper
 
 Reference code snippet
 
-https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+- https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
 As per the paper, a simple encoder-decoder architecture composed of a CNN and RNN can be used to generate text from an image.
 
 Youtube link for individual project presentation and project details
+- https://www.youtube.com/watch?v=y9f2BcCA-Xo&feature=youtu.be
 
-https://www.youtube.com/watch?v=y9f2BcCA-Xo&feature=youtu.be
 Github link for project implementation
+- https://github.com/kruti-thukral/image_captioning
 
-https://github.com/kruti-thukral/image_captioning
 Dataset can be downloaded from https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
-
 Datasets that need to be downloaded from above link are
-Flickr8k_Dataset.zip
-Flickr8k_text.zip
-Pre-trained Glove embeddings can be downloaded from
+- Flickr8k_Dataset.zip
+- Flickr8k_text.zip
 
-https://nlp.stanford.edu/projects/glove/
-glove.6B.zip from above link was used in the project
+Pre-trained Glove embeddings can be downloaded from
+- https://nlp.stanford.edu/projects/glove/
+- glove.6B.zip from above link was used in the project
