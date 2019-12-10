@@ -3,7 +3,7 @@
 Text Generation from image
 By Kruti Thukral (012586041)
 Reference paper
-Show and Tell: A Neural Image Caption Generator Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 3156-3164
+- Show and Tell: A Neural Image Caption Generator Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 3156-3164
 
 Reference code snippet
 
